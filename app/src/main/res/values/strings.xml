@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Get My Ip</string>
+    <string name="URL">Address</string>
+    <string name="Find">Find</string>
+    <string name="getAddress">getAddress</string>
+    <string name="UnknownHost">Unknown host!!</string>
+    <string name="EmptyAddress">Empty Address</string>
+    <string name="Back">Back</string>
+    <string name="ipKey">ip_key</string>
+</resources>
